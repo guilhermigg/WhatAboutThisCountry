@@ -8,7 +8,15 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "bulma": "^0.9.0",
+    "cheerio": "^1.0.0-rc.3",
     "core-js": "^3.6.5",
+    "cors": "^2.8.5",
+    "fs": "0.0.1-security",
+    "puppeteer": "^5.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
     "vue": "^2.6.11"
   },
   "devDependencies": {
